@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_normal_padding">10dp</dimen>
+    <dimen name="general_small_margin">5dp</dimen>
+    <dimen name="joke_row_image">45dp</dimen>
+</resources>

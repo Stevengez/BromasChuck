@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/general_normal_padding"
+    android:orientation="horizontal">
+    <ImageView
+        android:id="@+id/joke_row_image"
+        android:layout_width="@dimen/joke_row_image"
+        android:layout_height="@dimen/joke_row_image"/>
+    <TextView
+        android:id="@+id/joke_row_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/general_small_margin"
+        android:text="Joke content"/>
+</LinearLayout>
